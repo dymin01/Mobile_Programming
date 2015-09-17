@@ -48,14 +48,17 @@ public class Pet {
        }
 	
 	public String getName() {
+		return null;
 		// 구현하시오.
 	}
 	
 	public int getAge() {
+		return 0;
 		// 구현하시오.
 	}
 	
 	public double getWeight() {
+		return 0;
 		// 구현하시오.
 	}
 }
